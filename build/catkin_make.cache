@@ -1,0 +1,2 @@
+sick_tim
+-DCATKIN_DEVEL_PREFIX=/home/jeasinema/Documents/catkin_workspace/devel -DCMAKE_INSTALL_PREFIX=/home/jeasinema/Documents/catkin_workspace/install -G Unix Makefiles
